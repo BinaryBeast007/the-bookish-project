@@ -8,8 +8,15 @@ using DAL.Interfaces;
 
 namespace DAL.Repos
 {
-    public class BuyerRepo : Repo, IRepo<Buyer, int, bool>
+    public class BuyerRepo : Repo, IRepo<Buyer, int, bool>, IAuth<bool>
     {
+        public bool Authenticate(string email, string password)
+        {
+            var data = db.Buyers.FirstOrDefault(u=>u.Email.Equals(email) && u.Password.Equals(password));
+            if (data != null) return true;
+            return false;
+        }
+
         public bool Create(Buyer obj)
         {
             db.Buyers.Add(obj);

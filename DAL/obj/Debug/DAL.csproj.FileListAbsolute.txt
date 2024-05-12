@@ -13,3 +13,18 @@ F:\Semester\Spring 23-24 [Current]\Dot Net\Bookish\DAL\obj\Debug\DAL.csproj.Copy
 F:\Semester\Spring 23-24 [Current]\Dot Net\Bookish\DAL\obj\Debug\DAL.Migrations.initDB.resources
 F:\Semester\Spring 23-24 [Current]\Dot Net\Bookish\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
 F:\Semester\Spring 23-24 [Current]\Dot Net\Bookish\DAL\obj\Debug\DAL.Migrations.intiDB.resources
+F:\Semester\Spring 23-24 [Current]\Dot Net\Github Pushed\DAL\bin\Debug\DAL.dll.config
+F:\Semester\Spring 23-24 [Current]\Dot Net\Github Pushed\DAL\bin\Debug\DAL.dll
+F:\Semester\Spring 23-24 [Current]\Dot Net\Github Pushed\DAL\bin\Debug\DAL.pdb
+F:\Semester\Spring 23-24 [Current]\Dot Net\Github Pushed\DAL\bin\Debug\EntityFramework.dll
+F:\Semester\Spring 23-24 [Current]\Dot Net\Github Pushed\DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Semester\Spring 23-24 [Current]\Dot Net\Github Pushed\DAL\bin\Debug\EntityFramework.xml
+F:\Semester\Spring 23-24 [Current]\Dot Net\Github Pushed\DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Semester\Spring 23-24 [Current]\Dot Net\Github Pushed\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\Semester\Spring 23-24 [Current]\Dot Net\Github Pushed\DAL\obj\Debug\DAL.Migrations.initDB.resources
+F:\Semester\Spring 23-24 [Current]\Dot Net\Github Pushed\DAL\obj\Debug\DAL.Migrations.intiDB.resources
+F:\Semester\Spring 23-24 [Current]\Dot Net\Github Pushed\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+F:\Semester\Spring 23-24 [Current]\Dot Net\Github Pushed\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\Semester\Spring 23-24 [Current]\Dot Net\Github Pushed\DAL\obj\Debug\DAL.csproj.Up2Date
+F:\Semester\Spring 23-24 [Current]\Dot Net\Github Pushed\DAL\obj\Debug\DAL.dll
+F:\Semester\Spring 23-24 [Current]\Dot Net\Github Pushed\DAL\obj\Debug\DAL.pdb

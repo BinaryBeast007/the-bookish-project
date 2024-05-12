@@ -19,5 +19,9 @@ namespace DAL
         {
             return new OrdersRepo();
         }
+        public static IAuth<bool> AuthData()
+        {
+            return new BuyerRepo();
+        }
     }
 }

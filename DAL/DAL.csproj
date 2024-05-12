@@ -52,6 +52,7 @@
   <ItemGroup>
     <Compile Include="BuyerContext.cs" />
     <Compile Include="DataAccessFactory.cs" />
+    <Compile Include="Interfaces\IAuth.cs" />
     <Compile Include="Interfaces\IRepo.cs" />
     <Compile Include="Migrations\202404280054091_initDB.cs" />
     <Compile Include="Migrations\202404280054091_initDB.Designer.cs">
