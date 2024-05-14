@@ -12,5 +12,6 @@ namespace DAL
     {
         public DbSet<Buyer> Buyers { get; set; }
         public DbSet<Orders> Orders { get; set; }
+        public DbSet<Token> Tokens { get; set; }
     }
 }

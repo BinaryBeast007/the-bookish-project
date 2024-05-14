@@ -75,5 +75,16 @@ namespace BLL.Services
             var res = DataAccessFactory.OrderData().Delete(id);
             return res;
         }
+
+        /*public static List<OrdersDTO> GetOrdersByBuyerId(int buyerId)
+        {
+            var data = DataAccessFactory.OrderData().GetOrdersByBuyerId(buyerId);
+            var cfg = new MapperConfiguration(c => {
+                c.CreateMap<Orders, OrdersDTO>();
+            });
+            var mapper = new Mapper(cfg);
+            var mapped = mapper.Map<List<OrdersDTO>>(data);
+            return mapped;
+        }*/
     }
 }

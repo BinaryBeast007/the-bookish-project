@@ -23,6 +23,6 @@ F:\Semester\Spring 23-24 [Current]\Dot Net\Github Pushed\BLL\bin\Debug\AutoMappe
 F:\Semester\Spring 23-24 [Current]\Dot Net\Github Pushed\BLL\bin\Debug\EntityFramework.xml
 F:\Semester\Spring 23-24 [Current]\Dot Net\Github Pushed\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
 F:\Semester\Spring 23-24 [Current]\Dot Net\Github Pushed\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
-F:\Semester\Spring 23-24 [Current]\Dot Net\Github Pushed\BLL\obj\Debug\BLL.csproj.Up2Date
 F:\Semester\Spring 23-24 [Current]\Dot Net\Github Pushed\BLL\obj\Debug\BLL.dll
 F:\Semester\Spring 23-24 [Current]\Dot Net\Github Pushed\BLL\obj\Debug\BLL.pdb
+F:\Semester\Spring 23-24 [Current]\Dot Net\Github Pushed\BLL\obj\Debug\BLL.csproj.CopyComplete

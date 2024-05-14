@@ -41,5 +41,10 @@ namespace DAL.Repos
             if (db.SaveChanges() > 0) return true;
             return false;
         }
+
+        public List<Orders> GetOrdersByBuyerId(int buyerId)
+        {
+            return db.Orders.Where(order => order.BuyerId == buyerId).ToList();
+        }
     }
 }

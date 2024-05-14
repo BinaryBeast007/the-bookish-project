@@ -25,6 +25,7 @@ F:\Semester\Spring 23-24 [Current]\Dot Net\Github Pushed\DAL\obj\Debug\DAL.Migra
 F:\Semester\Spring 23-24 [Current]\Dot Net\Github Pushed\DAL\obj\Debug\DAL.Migrations.intiDB.resources
 F:\Semester\Spring 23-24 [Current]\Dot Net\Github Pushed\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
 F:\Semester\Spring 23-24 [Current]\Dot Net\Github Pushed\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
-F:\Semester\Spring 23-24 [Current]\Dot Net\Github Pushed\DAL\obj\Debug\DAL.csproj.Up2Date
 F:\Semester\Spring 23-24 [Current]\Dot Net\Github Pushed\DAL\obj\Debug\DAL.dll
 F:\Semester\Spring 23-24 [Current]\Dot Net\Github Pushed\DAL\obj\Debug\DAL.pdb
+F:\Semester\Spring 23-24 [Current]\Dot Net\Github Pushed\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\Semester\Spring 23-24 [Current]\Dot Net\Github Pushed\DAL\obj\Debug\DAL.Migrations.InitialCreate.resources
