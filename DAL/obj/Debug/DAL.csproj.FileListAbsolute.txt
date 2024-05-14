@@ -1,0 +1,14 @@
+F:\dot net project\Bookish\DAL\bin\Debug\DAL.dll.config
+F:\dot net project\Bookish\DAL\bin\Debug\DAL.dll
+F:\dot net project\Bookish\DAL\bin\Debug\DAL.pdb
+F:\dot net project\Bookish\DAL\bin\Debug\EntityFramework.dll
+F:\dot net project\Bookish\DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\dot net project\Bookish\DAL\bin\Debug\EntityFramework.xml
+F:\dot net project\Bookish\DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\dot net project\Bookish\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\dot net project\Bookish\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\dot net project\Bookish\DAL\obj\Debug\DAL.csproj.Up2Date
+F:\dot net project\Bookish\DAL\obj\Debug\DAL.dll
+F:\dot net project\Bookish\DAL\obj\Debug\DAL.pdb
+F:\dot net project\Bookish\DAL\obj\Debug\DAL.Migrations.Bookish.resources
+F:\dot net project\Bookish\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
