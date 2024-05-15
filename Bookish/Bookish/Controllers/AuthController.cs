@@ -24,7 +24,7 @@ namespace Bookish.Controllers
                 var res = AuthService.SimpleAuthenticate(login.Email, login.Password);
                 if (res)
                 {
-                    HttpContext?.Current?.Session["Email"] = login.Email;
+                    // HttpContext.Current.Session["Email"] = login.Email;
                     return Request.CreateResponse(HttpStatusCode.OK, res);
                 }
                 else return Request.CreateResponse(HttpStatusCode.NotFound, new { Message = "User not found" });
