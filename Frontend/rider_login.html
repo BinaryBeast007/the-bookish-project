@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.8/angular.min.js"></script>
+</head>
+<body>
+    <div ng-app="login" ng-controller="loginController">
+        <h2>Login</h2>
+        <form ng-submit="submitForm()">
+            <div >
+                <label>Email:</label>
+                <input type="email" ng-model="user.Email" required>
+            </div>
+            <div>
+                <label>Password:</label>
+                <input type="password"  ng-model="user.Password" required>
+            </div>
+            <button type="submit">Login</button>
+        </form>
+    </div>
+    <script>
+        var app = angular.module('login', []);
+        app.controller('loginController', function($scope, $http, $window) {
+            $scope.user = {};
+            $scope.submitForm = function() {
+                $http.post('https://localhost:44344/api/simplelogin', $scope.user)
+                    .then(function(response) {
+                        $window.location.href = '/dashboard.html';
+                    }, function(error) {
+                        console.error(error);
+                        alert('An error occurred.');
+                    });
+            };
+        });
+    </script>
+</body>
+</html>
